@@ -1,19 +1,19 @@
 #BASIC VALUE TYPES
 
-# #STRINGS
-# my_name = "Juliana"
+#STRINGS
+my_name = "Juliana"
 
-# #check the lenght
-# print(len('Juliana'))
+#check the lenght
+print(len('Juliana'))
 
-# #access chars by index (indexes start from 0)
-# print(my_name[4])
+#access chars by index (indexes start from 0)
+print(my_name[4])
 
-# my_name = 'John snow'
+my_name = 'John snow'
 
-# #they are immutable 
+#they are immutable 
 
-# # my_name[0] = 'G'
+# my_name[0] = 'G'
 
 # #String functions/ String Methods
 
