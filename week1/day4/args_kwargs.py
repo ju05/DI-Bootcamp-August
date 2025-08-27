@@ -18,3 +18,6 @@ def format_info(**kwargs):
 
 
 format_info(name = 'Harry', email = 'harry@hogwarts.com', age = 14, parseltongue = True)
+
+
+welcome(*students) #if you want to pass a sequence on a function that acepts "args" you can unpack it using "*"
